@@ -3,7 +3,6 @@ class Cdo < Formula
   homepage "https://code.zmaw.de/projects/cdo"
   url "https://code.zmaw.de/attachments/download/12760/cdo-1.7.2.tar.gz"
   sha256 "4c43eba7a95f77457bfe0d30fb82382b3b5f2b0cf90aca6f0f0a008f6cc7e697"
-  revision 5
 
   bottle do
     cellar :any
